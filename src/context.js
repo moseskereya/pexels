@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ReactPaginate from "react-paginate"
 import axios from "axios"
 const Context = React.createContext();
 
